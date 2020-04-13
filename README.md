@@ -1,2 +1,2 @@
-# arp-seq-01
+# uplift-arpeggio
 arpeggiator/sequencer for Uplifting Trance-y stuff
