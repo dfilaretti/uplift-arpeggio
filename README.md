@@ -8,7 +8,7 @@ Arpeggiator/sequencer/utility for Ableton Live.
 
 Please see the included a [demo set](uplift-arpeggio-demo-project.zip) to see how to use the device! 
 
-## Usage 
+## What?
 
 This device was designed to automate some of the melody-writing process I use in my own music (mostly uplifting trance). The idea is quite simple: 
 
