@@ -6,7 +6,7 @@ Arpeggiator/sequencer/utility for Ableton Live.
 
 ## What? 
 
-This device was designed to automate some of the melody-writing process I use in my own music (mostly uplifting trance). 
+This device was designed to automate some of the melody-writing process I use in my own music (mostly uplifting trance). The idea is quite simple: 
 
 * write a nice 3-notes chord progression 
 * add the device and use the top grid to create a 1 bar long, 16th notes monophonic sequence from the given notes (the first, second and third rows represent the first, second and third notes of the chord respectively, ordered by increasing pitch). This is basically an arpeggiator, with a little bit more flexibility perhaps. 
