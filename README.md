@@ -23,6 +23,14 @@ And that's pretty much it really... The remaining controls are just the icing on
 * adjust the global note length 
 * transpose the while thing up/down by semitones
 
+## Troubleshooting
+
+### There's no sound!! 
+
+To function properly, ideally you need to play a 3 notes chord. If you play e.g. only 2 notes but in the notes grid you try to use the 3rd notes, that will not play - check that first! 
+
+Moreover, the device needs the transport on (i.e. hit "play").
+
 ## Problems? 
 
 If you encounter any issue with the device please feel free to [open an issue](https://github.com/dfilaretti/uplift-arpeggio/issues/new) and I'll look into it.  
