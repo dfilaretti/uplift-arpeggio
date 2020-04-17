@@ -6,7 +6,7 @@ Arpeggiator/sequencer/utility for Ableton Live.
 
 ## Demo
 
-Please see the included a [demo set](uplift-arpeggio-demo-project.zip) to show how to use the device. 
+Please see the included a [demo set](uplift-arpeggio-demo-project.zip) to see how to use the device! 
 
 ## Usage 
 
