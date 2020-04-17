@@ -22,3 +22,7 @@ And that's pretty much it really... The remaining controls are just the icing on
 * manipulate the note sequence in different ways e.g. shifting the pattern left/right or cycling vertically (please experiment with that, it's easier to play with than it is to explain!) 
 * adjust the global note length 
 * transpose the while thing up/down by semitones
+
+## Problems? 
+
+If you encounter any issue with the device please feel free to [open an issue](https://github.com/dfilaretti/uplift-arpeggio/issues/new) and I'll look into it.  
