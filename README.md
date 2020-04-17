@@ -4,7 +4,9 @@ Arpeggiator/sequencer/utility for Ableton Live.
 
 ![Screenshot](screenshot.jpg)
 
-## What? 
+## Demo set 
+
+## Usage 
 
 This device was designed to automate some of the melody-writing process I use in my own music (mostly uplifting trance). The idea is quite simple: 
 
