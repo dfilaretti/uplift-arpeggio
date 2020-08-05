@@ -2,7 +2,7 @@
 
 Arpeggiator/sequencer/utility for Ableton Live.
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ## Demo
 
